@@ -1,12 +1,13 @@
-## My Project Title
+## Speed Dating - Project Group A
 
 
 ---
 
 ### Project description
 
-*Your description here*
+A python data analytics project regarding speed dating data.
 
+The goal was to find out what the most effective personal characteristics to achieve a match in opposite sex speed dating are, based on data from Columbia Universitry (http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/).
 
 ---
 
